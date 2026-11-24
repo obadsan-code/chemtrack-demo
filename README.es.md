@@ -23,3 +23,6 @@ Python 3.10 · python-telegram-bot 20 · PostgreSQL · reportlab · React 19 · 
 4. Dashboard: `cd dashboard && npm install && node server.js` (y `npm start` para el front, con `REACT_APP_API_URL`)
 
 Todas las credenciales y los IDs de Telegram se leen de variables de entorno; no hay secretos en el código.
+
+## Licencia
+MIT — ver [LICENSE](LICENSE).
