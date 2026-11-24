@@ -26,3 +26,6 @@ Python 3.10 · python-telegram-bot 20 · PostgreSQL · reportlab · React 19 · 
 
 All credentials and Telegram user IDs come from environment variables; there are no secrets in the code.
 The bot's user-facing messages are in Spanish, since that is the team's working language.
+
+## License
+MIT — see [LICENSE](LICENSE).

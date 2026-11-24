@@ -1,0 +1,24 @@
+# Secretos
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node / React
+node_modules/
+dashboard/build/
+
+# Respaldos y reportes generados
+*.sql.gz
+backups/
+*.csv
+reportes/
+
+# Sistema
+.DS_Store
+Thumbs.db
